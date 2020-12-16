@@ -1,0 +1,16 @@
+ables of Common Distributions
+Downloadable Excel spreadsheets for probabilities, critical values, and p values based on the normal, Student t, Chi-Squared, and F distributions.
+
+Normaltable.xls. Normal distribution.
+Top portion contains areas for users to input any limits, means, and standard deviations. Functions in Excel will calculate probabilities or critical values. Lower portion of spreadsheet contains table of the standard normal distribution, similar to Table A.1.Normaltable.xls
+
+Ttable.xls. The t distribution.
+Top portion of the spreadsheet contains a brief version of Student’s t distribution similar to Table A.2. Lower portion of the spreadsheet contains built in functions where the user can enter any degrees of freedom or significance level to obtain critical values, or enter observed t-statistics to obtain p values.ttable.xls
+
+Chitable.xls. ?2 distribution.
+Top portion of the spreadsheet contains a brief version of Table A.3. Lower portion of the spreadsheet contains built in functions where the user can obtain critical values of p values for any degree of freedom or level of significance.chitable.xls
+
+Ftable.xls. F distribution.
+Top portion of the table contains critical values for a few selections of significance level, numerator and denominator degrees of freedom. The lower portion of the spreadsheet contains built in functions where the user can specify any degrees of freedom or significance level to obtain a critical value, or enter an observed F-value and obtain a p value.Ftable.xls
+
+Download all tables.
