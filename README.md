@@ -4,6 +4,8 @@
 
 * Experiment design covered: for CRD, RCBD, Split plot design.
 
-* SAS Method Covered: PROC GLM, PROc MIXED, PROC GLMMIXED, PROC REG, PROC GPLOT PROC SGPLOT, PROC SGPANEL, PROC SORT, PROC FORMAT.
+* SAS Procedures: GLM, MIXED, GLMMIXED, GPLOT, SGPLOT, SGPANEL, SORT, FORMAT.
 
 * Mehod covered: ANOVA, HOVS, Trend Analysis, Linear and Simultaneous Constrasts, MANCOVA.
+
+* Also visit https://github.com/bijeshmishra/SQL_DBM for data management. This directory has univariate, means, regression and correlation, graphing, reporting and formatting procedures and few more.
